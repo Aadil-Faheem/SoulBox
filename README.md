@@ -11,6 +11,10 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMzMmFocGNjYXdqbndhcnlqd
 A. **Python to EXE Converter**  
    This app allows you to easily convert Python `.py` files into standalone `.exe` executables using `PyInstaller`. With a user-friendly interface built using `tkinter`, you can select your Python script, press a button, and get an executable file ready for distribution.
 
+B. **IP Address Finder**  
+   A simple Python app that uses `tkinter` to display your local machine’s hostname and IP address. Additionally, it allows you to input any website (e.g., `github.com`) and fetch the IP address of that website. It's a small tool that showcases basic networking and GUI development using Python. 
+
+<br>
 
 ## Upcoming Projects
 
@@ -38,6 +42,12 @@ To run these projects locally, you need Python installed on your machine. Here�
   Locate and Set the Tkinter Folder (First Time Use Only - It will save the location for next use)
   Select a Python file with Browse Button
   Press the “Convert to EXE” button, and the script will generate an `.exe` file in the same directory as the Python file
+
+  - **IP Address Finder**:
+  Simply click the button to see your machine’s IP address
+  You can also input a website name and get its IP
+  History of IP searched can also be seen by History Button
+  
 
   <br>
 

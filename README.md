@@ -8,6 +8,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMzMmFocGNjYXdqbndhcnlqd
 
 ## Projects
 
+A. **Python to EXE Converter**  
+   This app allows you to easily convert Python `.py` files into standalone `.exe` executables using `PyInstaller`. With a user-friendly interface built using `tkinter`, you can select your Python script, press a button, and get an executable file ready for distribution.
+
 
 ## Upcoming Projects
 
@@ -19,11 +22,22 @@ To run these projects locally, you need Python installed on your machine. Here�
 
 ### Prerequisites (For Running Locally OR Use the EXE file to Run):
 
-- **Python 3.x**: Ensure you have Python 3.x installed. [Python website](https://www.python.org/downloads/).
+- **Python 3.x**: Ensure you have Python 3.x installed. [Python website](https://www.python.org/downloads/)
+- **PyInstaller** (for Python to EXE Converter)
+
+  To install PyInstaller, you can use pip:
+  ```bash
+  pip install pyinstaller
+  ```
 
   <br>
 
 ### How to Use
+
+- **Python to EXE Converter**:
+  Locate and Set the Tkinter Folder (First Time Use Only - It will save the location for next use)
+  Select a Python file with Browse Button
+  Press the “Convert to EXE” button, and the script will generate an `.exe` file in the same directory as the Python file
 
   <br>
 
@@ -34,6 +48,7 @@ Feel free to fork this repository, make contributions, and open pull requests! W
 <br>
 
 ### Guidelines
+- Put your Python Script in a Folder that starts with a letter and a dash that is next in line eg: A - Python To Exe
 - Make sure to keep the projects fun and useful.
 - Follow basic Python coding standards.
 - Add a description and instructions for any new tools you add.

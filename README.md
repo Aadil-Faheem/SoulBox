@@ -14,7 +14,9 @@ A. **Python to EXE Converter**
 B. **IP Address Finder**  
    A simple Python app that uses `tkinter` to display your local machineâ€™s hostname and IP address. Additionally, it allows you to input any website (e.g., `github.com`) and fetch the IP address of that website. It's a small tool that showcases basic networking and GUI development using Python. 
 
-<br>
+C. **Game Of Life**  
+   A Python app that simulates the famous **"Game of Life"** cellular automaton. It displays a grid where cells evolve based on simple rules of survival, death, and reproduction. This interactive tool lets users start, stop, and control the simulation while visualizing complex patterns emerging from simple initial configurations.
+   <br><br>
 
 ## Upcoming Projects
 
@@ -28,6 +30,10 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
 
 - **Python 3.x**: Ensure you have Python 3.x installed. [Python website](https://www.python.org/downloads/)
 - **PyInstaller** (for Python to EXE Converter)
+- **numpy**       (for Game Of Life)
+- **matplotlib**  (for Game Of Life)
+- **argparse**    (for Game Of Life)
+- **pygame**      (for Game Of Life)
 
   To install PyInstaller, you can use pip:
   ```bash
@@ -48,6 +54,13 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
   You can also input a website name and get its IP
   History of IP searched can also be seen by History Button
   
+  - **Game Of Life**:
+  Start and stop the simulation
+  Adjust the grid size
+  Change Pattern
+  Change Interval
+  Watch the evolution of the grid step-by-step or in continuous mode
+
 
   <br>
 

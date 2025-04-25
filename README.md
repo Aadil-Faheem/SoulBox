@@ -57,12 +57,12 @@ To run these projects locally, you need Python installed on your machine. Here�
   Select a Python file with Browse Button
   Press the “Convert to EXE” button, and the script will generate an `.exe` file in the same directory as the Python file
 
-  - **IP Address Finder**:
+- **IP Address Finder**:
   Simply click the button to see your machine’s IP address
   You can also input a website name and get its IP
   History of IP searched can also be seen by History Button
   
-  - **Game Of Life**:
+- **Game Of Life**:
   Start and stop the simulation
   Adjust the grid size
   Change Pattern

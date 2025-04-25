@@ -1,6 +1,6 @@
-# Soulbox
+# SoulBox
 
-Welcome to **Soulbox**! A collection of random, fun, and learning projects that I’m building for fun and personal growth. The goal of this repository is to explore new ideas, experiment with different technologies, and create tools that help with everyday tasks and coding challenges.
+Welcome to **SoulBox**! A collection of random, fun, and learning projects that I’m building for fun and personal growth. The goal of this repository is to explore new ideas, experiment with different technologies, and create tools that help with everyday tasks and coding challenges.
 
 <img
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMzMmFocGNjYXdqbndhcnlqdWx0YmhjdnlsZ2M1cDlnbDVsYzE2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlqzt1kP5459lJi6oi/giphy.gif" height="600" />
@@ -11,11 +11,16 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMzMmFocGNjYXdqbndhcnlqd
 A. **Python to EXE Converter**  
    This app allows you to easily convert Python `.py` files into standalone `.exe` executables using `PyInstaller`. With a user-friendly interface built using `tkinter`, you can select your Python script, press a button, and get an executable file ready for distribution.
 
+   <br>
+
 B. **IP Address Finder**  
    A simple Python app that uses `tkinter` to display your local machine’s hostname and IP address. Additionally, it allows you to input any website (e.g., `github.com`) and fetch the IP address of that website. It's a small tool that showcases basic networking and GUI development using Python. 
 
+   <br>
+
 C. **Game Of Life**  
    A Python app that simulates the famous **"Game of Life"** cellular automaton. It displays a grid where cells evolve based on simple rules of survival, death, and reproduction. This interactive tool lets users start, stop, and control the simulation while visualizing complex patterns emerging from simple initial configurations.
+   
    <br><br>
 
 ## Upcoming Projects
@@ -35,12 +40,15 @@ To run these projects locally, you need Python installed on your machine. Here�
 - **argparse**    (for Game Of Life)
 - **pygame**      (for Game Of Life)
 
+
+<br>
+
   To install PyInstaller, you can use pip:
   ```bash
   pip install pyinstaller
   ```
 
-  <br>
+<br>
 
 ### How to Use
 

@@ -21,8 +21,10 @@ B. **IP Address Finder**
 C. **Game Of Life**  
    A Python app that simulates the famous **"Game of Life"** cellular automaton. It displays a grid where cells evolve based on simple rules of survival, death, and reproduction. This interactive tool lets users start, stop, and control the simulation while visualizing complex patterns emerging from simple initial configurations.
 
+   <br>
+
 D. **Speed Test**  
-   A simple Python app that uses tkinter to measure and display your internet speed, including download, upload, and ping statistics. It provides a clean and user-friendly interface, showcasing basic network testing and GUI development using Python.
+   A simple Python app that uses `tkinter` to measure and display your internet speed, including download, upload, and ping statistics. It provides a clean and user-friendly interface, showcasing basic network testing and GUI development using Python.
    <br>
 
    
@@ -58,26 +60,26 @@ To run these projects locally, you need Python installed on your machine. Here�
 
 ### How to Use
 
-- **Python to EXE Converter**:
-  Locate and Set the Tkinter Folder (First Time Use Only - It will save the location for next use)
-  Select a Python file with Browse Button
-  Press the “Convert to EXE” button, and the script will generate an `.exe` file in the same directory as the Python file
+- **Python to EXE Converter**: <br>
+  Locate and Set the Tkinter Folder (First Time Use Only - It will save the location for next use) <br>
+  Select a Python file with Browse Button <br>
+  Press the “Convert to EXE” button, and the script will generate an `.exe` file in the same directory as the Python file <br>
 
-- **IP Address Finder**:
-  Simply click the button to see your machine’s IP address
-  You can also input a website name and get its IP
-  History of IP searched can also be seen by History Button
+- **IP Address Finder**: <br>
+  Simply click the button to see your machine’s IP address <br>
+  You can also input a website name and get its IP <br>
+  History of IP searched can also be seen by History Button <br>
   
-- **Game Of Life**:
-  Start and stop the simulation
-  Adjust the grid size
-  Change Pattern
-  Change Interval
-  Watch the evolution of the grid step-by-step or in continuous mode
+- **Game Of Life**: <br>
+  Start and stop the simulation <br>
+  Adjust the grid size <br>
+  Change Pattern <br>
+  Change Interval <br>
+  Watch the evolution of the grid step-by-step or in continuous mode <br>
 
-- **Speed Test**:
-  Test Internet Speed with a Single Button
-  Get both Download and Upload Speed
+- **Speed Test**: <br>
+  Test Internet Speed with a Single Button <br>
+  Get both Download and Upload Speed <br>
 
   <br>
 

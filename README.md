@@ -20,6 +20,11 @@ B. **IP Address Finder**
 
 C. **Game Of Life**  
    A Python app that simulates the famous **"Game of Life"** cellular automaton. It displays a grid where cells evolve based on simple rules of survival, death, and reproduction. This interactive tool lets users start, stop, and control the simulation while visualizing complex patterns emerging from simple initial configurations.
+
+D. **Speed Test**  
+   A simple Python app that uses tkinter to measure and display your internet speed, including download, upload, and ping statistics. It provides a clean and user-friendly interface, showcasing basic network testing and GUI development using Python.
+   <br>
+
    
    <br><br>
 
@@ -39,11 +44,12 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
 - **matplotlib**  (for Game Of Life)
 - **argparse**    (for Game Of Life)
 - **pygame**      (for Game Of Life)
+- **speedtest-cli**   (for Speed Test)
 
 
 <br>
 
-  To install PyInstaller, you can use pip:
+  To install Prereqs, you can use pip, Example to Install PyInstaller:
   ```bash
   pip install pyinstaller
   ```
@@ -69,6 +75,9 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
   Change Interval
   Watch the evolution of the grid step-by-step or in continuous mode
 
+- **Speed Test**:
+  Test Internet Speed with a Single Button
+  Get both Download and Upload Speed
 
   <br>
 

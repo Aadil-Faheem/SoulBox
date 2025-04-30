@@ -27,6 +27,9 @@ D. **Speed Test**
    A simple Python app that uses `tkinter` to measure and display your internet speed, including download, upload, and ping statistics. It provides a clean and user-friendly interface, showcasing basic network testing and GUI development using Python.
    <br>
 
+E. **Schrute Buck Converter**  
+   A fun Python app built with tkinter to convert between Schrute Bucks and real USD, inspired by The Office. It features a clean, user-friendly interface and showcases basic GUI development with a humorous twist.
+   <br>
    
    <br><br>
 
@@ -80,6 +83,10 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
 - **Speed Test**: <br>
   Test Internet Speed with a Single Button <br>
   Get both Download and Upload Speed <br>
+
+- **Schrute Buck Converter**: <br>
+  Convert Schrute Buck to USD with a Single Button <br>
+  Convert USD to Schrute Buck with a Single Button <br>
 
   <br>
 

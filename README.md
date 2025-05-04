@@ -25,16 +25,18 @@ C. **Game Of Life**
 
 D. **Speed Test**  
    A simple Python app that uses `tkinter` to measure and display your internet speed, including download, upload, and ping statistics. It provides a clean and user-friendly interface, showcasing basic network testing and GUI development using Python.
+   
    <br>
 
 E. **Schrute Buck Converter**  
    A fun Python app built with tkinter to convert between Schrute Bucks and real USD, inspired by The Office. It features a clean, user-friendly interface and showcases basic GUI development with a humorous twist.
+   
    <br>
 
 F. **TaskWatch**  
     Python-based task manager built with `psutil` and `tkinter`. It provides a user-friendly GUI to monitor, log, and manage system processes in real-time.
     It also adds customizable scanning intervals, color-coded usage, logging features, and a clean interface.
-   <br>
+
    
    
    <br><br>

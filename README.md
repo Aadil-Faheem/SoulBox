@@ -30,6 +30,12 @@ D. **Speed Test**
 E. **Schrute Buck Converter**  
    A fun Python app built with tkinter to convert between Schrute Bucks and real USD, inspired by The Office. It features a clean, user-friendly interface and showcases basic GUI development with a humorous twist.
    <br>
+
+F. **TaskWatch**  
+    Python-based task manager built with `psutil` and `tkinter`. It provides a user-friendly GUI to monitor, log, and manage system processes in real-time.
+    It also adds customizable scanning intervals, color-coded usage, logging features, and a clean interface.
+   <br>
+   
    
    <br><br>
 
@@ -49,7 +55,7 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
 - **matplotlib**  (for Game Of Life)
 - **argparse**    (for Game Of Life)
 - **pygame**      (for Game Of Life)
-- **speedtest-cli**   (for Speed Test)
+- **psutil**   (for TaskWatch)
 
 
 <br>
@@ -87,6 +93,16 @@ To run these projects locally, you need Python installed on your machine. Hereâ€
 - **Schrute Buck Converter**: <br>
   Convert Schrute Buck to USD with a Single Button <br>
   Convert USD to Schrute Buck with a Single Button <br>
+
+- **TaskWatch**: <br>
+  Real-time process monitoring (CPU, memory, status) <br>
+  Color-coded rows: <br>
+  Red = High CPU usage || Yellow = Medium CPU usage || Green = Low CPU usage <br>
+  Kill selected process <br>
+  Log selected process to file (with timestamp) <br>
+  Adjustable scan interval (2s, 5s, 10s) <br>
+  Timed logging for selected process over a span of N seconds <br>
+
 
   <br>
 
